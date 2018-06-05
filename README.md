@@ -9,6 +9,6 @@ OpenCV setup:
 Other opencv versions seem to have problems with GTK2+,when doing live capure from camera.
 
 
-If getting "Segmentation fault (core dumped)" when running *.py files:
+If getting "Segmentation fault (core dumped)" error, when running *.py files:
 
 ```conda install pyqt```
